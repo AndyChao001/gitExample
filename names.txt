@@ -1,2 +1,3 @@
-boss,achao,Chao,Andy
+role,NetID,LastName,FirstName
+boss,hchao8,Chao,Andy
 employee,liu2424,Liu,Judy
